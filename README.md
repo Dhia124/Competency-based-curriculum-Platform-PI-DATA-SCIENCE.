@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dhia124)](https://github.com/ryo-ma/github-profile-trophy)
 # Project Description
 In this section, you have to outline:
 - The problem you're trying to solve:
